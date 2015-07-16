@@ -1,8 +1,11 @@
-// Hi!
-// ---
-//   Click on the 'logic' tab 
-//   and write your code there! 
-// ---
+/*
+Based on "arduino_bean" by Boris Kourtoukov
+Modified by Kate Hartman - added more inputs
+
+Workshop participants:
+Click on the 'logic' tab and write your code there! 
+*/
+
 
 void setup() {
 
